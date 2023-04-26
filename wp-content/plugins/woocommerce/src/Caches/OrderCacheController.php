@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\Internal\Traits\AccessiblePrivateMethods&quot; not found in <b>C:\xampp\htdocs\DigitalProduct\wp-content\plugins\woocommerce\src\Caches\OrderCacheController.php</b> on line <b>12</b><br>

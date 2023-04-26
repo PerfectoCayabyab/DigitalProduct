@@ -1,0 +1,9 @@
+<svg width="960" height="640" viewBox="0 0 960 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M60 320V-1.66893e-05H-240L60 320Z" fill="white"/>
+<path d="M60 0V320H360L60 0Z" fill="white"/>
+<path d="M360 320V640H660L360 320Z" fill="white"/>
+<path d="M360 320V640H60L360 320Z" fill="white"/>
+<path d="M660 320V-1.66893e-05H360L660 320Z" fill="white"/>
+<path d="M660 0V320H960L660 0Z" fill="white"/>
+<path d="M-240 640V320H60L-240 640Z" fill="white"/>
+</svg>

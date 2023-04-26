@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\StoreApi\Utilities\DraftOrderTrait&quot; not found in <b>C:\xampp\htdocs\DigitalProduct\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\QuantityLimits.php</b> on line <b>12</b><br>

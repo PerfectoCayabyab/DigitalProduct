@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;CFVSW\Inc\Traits\Get_Instance&quot; not found in <b>C:\xampp\htdocs\DigitalProduct\wp-content\plugins\variation-swatches-woo\inc\swatches.php</b> on line <b>23</b><br>
